@@ -11,7 +11,7 @@ $ apt install nodejs
 
 $ cd /storage
 
-$ git clone https://github.com/Bintang73/wifi-id.git
+$ git clone https://github.com/andhie76/wifi-id.git
 
 $ cd wifi-id
 
